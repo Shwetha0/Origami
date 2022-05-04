@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+#main h1
+{
+    color: rgb(168, 187, 203);
+}
+
+h1 
+{
+    font-size: 40px;
+    font-family: 'Libre Bodoni', serif;
+    font-weight: 300;
+}
+p
+{
+    font-family: 'Oleo Script Swash Caps', cursive;
+    font-size: 35px;
+}
+
+#main
+{
+    background:linear-gradient(rgb(210, 3, 82),rgb(241, 175, 207));
+}
+
+#origami1{
+   background-color:rgb(213, 57, 94);
+}
+
+#origami2{
+  background-color:rgb(213, 57, 94); 
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
